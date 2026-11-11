@@ -1,3 +1,3 @@
-// Valorile de mai jos sunt publice. Nu pune aici cheia secretă / service_role.
-export const SUPABASE_URL = 'https://ewjxchhdmpxueafdqvvi.supabase.co';
-export const SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_PUeLXwdG2UyOFa5b3TZGeQ_XLO8JGWJ';
+// Cheia publică a proiectului Supabase nou.
+export const SUPABASE_URL = 'https://mvrcdymjwsmatekltwri.supabase.co';
+export const SUPABASE_PUBLISHABLE_KEY = 'sb_publishable_S7lfXOL75HFloI0ZfaQyyw_RlFpP3lh';
